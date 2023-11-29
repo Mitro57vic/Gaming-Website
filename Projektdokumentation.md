@@ -61,7 +61,7 @@ Gaming website
 
 Wir haben uns entschieden 
 
-Wir haben uns entschieden ein System einzubauen, dass bei 10 erzielten Punkten das Spiel beendet, damit das Spiel auch ein Punktlimit besitzt.
+Wir haben uns entschieden 
 
 
 ## 4 Realisieren
