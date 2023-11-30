@@ -8,7 +8,7 @@ Filip Mitrovic, Lennard Bühler, Filip Kritzner und Raul Gilardoni
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |   17.11.2023   | 0.0.1   | wir haben in der Gruppe ein Thema ausgesucht für dieses Projekt |
-|24.11.2023      |0.0.2    |Wir haben die Planung erstellt für unser Projekt|
+|24.11.2023      |0.0.2    |Wir haben die Planung erstellt für unser Projekt, aufteilung wer was macht|
 
 ## 1 Informieren
 
