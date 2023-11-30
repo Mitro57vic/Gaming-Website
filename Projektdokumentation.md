@@ -8,6 +8,7 @@ Filip Mitrovic, Lennard Bühler, Filip Kritzner und Raul Gilardoni
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |   17.11.2023   | 0.0.1   |  |
+|24.11.2023      |0.0.2    ||
 
 ## 1 Informieren
 
