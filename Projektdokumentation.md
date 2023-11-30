@@ -10,6 +10,7 @@ Filip Mitrovic, Lennard Bühler, Filip Kritzner und Raul Gilardoni
 |   17.11.2023   | 0.0.1   | wir haben in der Gruppe ein Thema ausgesucht für dieses Projekt |
 |24.11.2023      |0.0.2    |Wir haben die Planung erstellt für unser Projekt, aufteilung wer was macht und schon angefangen zu programmieren|
 |01.12.2023      |0.0.3    |Wir haben unsere Startseite implementiert und Projektdoku erweitert|
+|08.12.2023      |0.0.4    ||
 
 ## 1 Informieren
 
