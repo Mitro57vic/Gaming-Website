@@ -33,8 +33,9 @@ In diesem Projekt entwickeln wir eine interaktive Website unter Verwendung von H
 |   7   |    muss             |  funktional           |Als User möchte ich Snake spielen können. |
 |   8   |    muss             |  funktional           |Als User möchte ich ein Quizs-Spiel spielen können.|
 |   9   |    muss             |  funktional           |Als User möchte ich, dass beim Quiz-Spiel mir am Ende des Quizes anhand eines Diagrammes mein Score angezeigt wird.|
-|   10   |    muss             |  funktional           |Als User möchte ich|
-
+|   10   |    muss             |  funktional           |Als User möchte ich, dass mir mindestens 5 Fragen gestellt werden beim Quiz.|
+|   11   |    muss             |  funktional           |Als User möchte ich, dass mindestens 3 Antworten stehen und ich die richtige aussuchen muss.|
+|   12   |    muss             |  funktional           |Als User möchte ich, wenn ich eine Antwort auswähle ich direkt zur nächsten Fragen geschickt werde.|
 
 
 
