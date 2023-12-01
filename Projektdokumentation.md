@@ -25,14 +25,15 @@ In diesem Projekt entwickeln wir eine interaktive Website unter Verwendung von H
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |       muss         |   funktional   | Als User möchte ich eine attraktiv aussehende Website.   |
-|2     |  muss              |                |   Als User möchte ich bei der Startseite eine Parallex website.                   |
+|2     |  muss              |       funktional         |   Als User möchte ich bei der Startseite eine Parallex website.                   |
 |  3   |      muss              |    funktional            |Als User möchte ich eine Navigationsleiste auf der Website zur verfügung haben.|
 |  4   |    muss         |  funktional           |Als User möchte ich, dass die Links bei der Navigationsleiste funktionieren und mich zur richtigen Seite führen. |
 |   5  |      muss       |    funktional         |Als User möchte ich bei der Startseite eine Beschreibung der Website haben. |
-|      |                 |             |Als User möchte ich |
-|      |                 |             |Als User möchte ich |
-|      |                 |             |Als User möchte ich |
-
+|    6  |      muss           |    funktional         |Als User möchte ich Tic Tac Toe spielen können.|
+|   7   |    muss             |  funktional           |Als User möchte ich Snake spielen können. |
+|   8   |    muss             |  funktional           |Als User möchte ich ein Quizs-Spiel spielen können.|
+|   9   |    muss             |  funktional           |Als User möchte ich, dass beim Quiz-Spiel mir am Ende des Quizes anhand eines Diagrammes mein Score angezeigt wird.|
+|   10   |    muss             |  funktional           |Als User möchte ich|
 
 
 
