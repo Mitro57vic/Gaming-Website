@@ -28,7 +28,7 @@ In diesem Projekt entwickeln wir eine interaktive Website unter Verwendung von H
 |2     |  muss              |                |   Als User möchte ich bei der Startseite eine Parallex website.                   |
 |  3   |      muss              |    funktional            |Als User möchte ich eine Navigationsleiste auf der Website zur verfügung haben.|
 |  4   |    muss         |  funktional           |Als User möchte ich, dass die Links bei der Navigationsleiste funktionieren und mich zur richtigen Seite führen. |
-|      |                 |             |Als User möchte ich |
+|   5  |      muss       |    funktional         |Als User möchte ich bei der Startseite eine Beschreibung der Website haben. |
 |      |                 |             |Als User möchte ich |
 |      |                 |             |Als User möchte ich |
 |      |                 |             |Als User möchte ich |
