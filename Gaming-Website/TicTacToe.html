@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Tic Tac Toe</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    <style>
+        /* Stil für die Navigationsleiste */
+        nav {
+            background-color: #359381;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 10px 20px;
+            margin: 0 10px;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        nav a:hover {
+            background-color: #fff;
+            color: #359381;
+        }
+
+        #board {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 20px;
+        }
+
+        .row {
+            display: flex;
+        }
+
+        .cell {
+            width: 100px;
+            height: 100px;
+            border: 1px solid black;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2em;
+            cursor: pointer;
+        }
+
+        button {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Navigationsleiste -->
+    <nav>
+        <a href="index.html" >Home</a>
+        <a href="#" class="active">Tic Tac Toe</a>
+    <a href="snake.html">Snake</a>
+    <a href="bible-quiz.html">Bible Quiz</a>
+    </nav>
+
+    <h1>Tic Tac Toe</h1>
+    <div id="board">
+        <div class="row">
+            <div class="cell" onclick="makeMove(0, 0)"></div>
+            <div class="cell" onclick="makeMove(0, 1)"></div>
+            <div class="cell" onclick="makeMove(0, 2)"></div>
+        </div>
+        <div class="row">
+            <div class="cell" onclick="makeMove(1, 0)"></div>
+            <div class="cell" onclick="makeMove(1, 1)"></div>
+            <div class="cell" onclick="makeMove(1, 2)"></div>
+        </div>
+        <div class="row">
+            <div class="cell" onclick="makeMove(2, 0)"></div>
+            <div class="cell" onclick="makeMove(2, 1)"></div>
+            <div class="cell" onclick="makeMove(2, 2)"></div>
+        </div>
+
+    </div>
+    <button onclick="resetBoard()">Neustarten</button>
+    <script>
+
+        let board = [
+            ["", "", ""],
+            ["", "", ""],
+            ["", "", ""]
+        ];
+
+        let currentPlayer = "X";
+
+        function makeMove(row, col) {
+            if (board[row][col] === "") {
+                board[row][col] = currentPlayer;
+                document.getElementById("board").children[row].children[col].innerText = currentPlayer;
+                currentPlayer = currentPlayer === "X" ? "O" : "X";
+                checkWinner();
+            }
+        }
+        
+
+        function checkWinner() {
+            // Überprüfe Reihen
+            for (let i = 0; i < 3; i++) {
+                if (
+                    board[i][0] !== "" &&
+                    board[i][0] === board[i][1] &&
+                    board[i][0] === board[i][2]
+                ) {
+                    announceWinner(board[i][0]);
+                    return;
+                }
+            }
+
+            // Überprüfe Spalten
+            for (let j = 0; j < 3; j++) {
+                if (
+                    board[0][j] !== "" &&
+                    board[0][j] === board[1][j] &&
+                    board[0][j] === board[2][j]
+                ) {
+                    announceWinner(board[0][j]);
+                    return;
+                }
+            }
+
+            // Überprüfe Diagonalen
+            if (
+                board[0][0] !== "" &&
+                board[0][0] === board[1][1] &&
+                board[0][0] === board[2][2]
+            ) {
+                announceWinner(board[0][0]);
+                return;
+            }
+
+            if (
+                board[0][2] !== "" &&
+                board[0][2] === board[1][1] &&
+                board[0][2] === board[2][0]
+            ) {
+                announceWinner(board[0][2]);
+                return;
+            }
+
+            // Überprüfe Unentschieden
+            if (isBoardFull()) {
+                announceDraw();
+                return;
+            }
+        }
+
+        function isBoardFull() {
+            for (let i = 0; i < 3; i++) {
+                for (let j = 0; j < 3; j++) {
+                    if (board[i][j] === "") {
+                        return false;
+                    }
+                }
+            }
+            return true;
+        }
+
+        function announceWinner(winner) {
+            setTimeout(() => {
+                alert("Spieler " + winner + " hat gewonnen!");
+                resetBoard();
+            }, 100);
+        }
+
+        function announceDraw() {
+            setTimeout(() => {
+                alert("Unentschieden!");
+                resetBoard();
+            }, 100);
+        }
+
+        function resetBoard() {
+            board = [
+                ["", "", ""],
+                ["", "", ""],
+                ["", "", ""]
+            ];
+
+            let cells = document.getElementsByClassName("cell");
+            for (let i = 0; i < cells.length; i++) {
+                cells[i].innerText = "";
+            }
+        }
+
+
+    </script>
+</body>
+
+</html>
