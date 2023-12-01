@@ -94,6 +94,6 @@ Wir haben uns entschieden
 
 `Fazit:`
 
-Kommt nochh
+Am Ende schreiben
 
 ## 6 Auswerten
