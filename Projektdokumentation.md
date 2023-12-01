@@ -24,7 +24,9 @@ In diesem Projekt entwickeln wir eine interaktive Website unter Verwendung von H
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |       kann         |   funktional   | Als User möchte ich   |
+| 1    |       muss         |   funktional   | Als User möchte ich eine attraktiv aussehende Website   |
+|2     |  muss              |                |   Als User möchte ich bei der Startseite eine Parallex website                   |
+|  3    |      muss              |    funktional            |Als User möchte ich eine Navigationsleiste auf der Website zur verfügung haben.|
 
 
 
