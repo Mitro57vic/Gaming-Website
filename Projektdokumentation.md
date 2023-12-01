@@ -32,15 +32,11 @@ In diesem Projekt entwickeln wir eine interaktive Website unter Verwendung von H
 
 
 
-
-
-
-
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |      Programm wird geöffnet        |  Der User       |                  |
+| 1.1  |      Website wird geöffnet        |  Der User scrollt nach unten       |      Bilder und Text machen Animation            |
 
 
 
