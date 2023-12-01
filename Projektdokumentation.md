@@ -35,7 +35,8 @@ In diesem Projekt entwickeln wir eine interaktive Website unter Verwendung von H
 |   9   |    muss             |  funktional           |Als User möchte ich, dass beim Quiz-Spiel mir am Ende des Quizes anhand eines Diagrammes mein Score angezeigt wird.|
 |   10   |    muss             |  funktional           |Als User möchte ich, dass mir mindestens 5 Fragen gestellt werden beim Quiz.|
 |   11   |    muss             |  funktional           |Als User möchte ich, dass mindestens 3 Antworten stehen und ich die richtige aussuchen muss.|
-|   12   |    muss             |  funktional           |Als User möchte ich, wenn ich eine Antwort auswähle ich direkt zur nächsten Fragen geschickt werde.|
+|   12   |    muss             |  funktional           |Als User möchte ich, wenn ich eine Antwort auswähle ich direkt zur nächsten Frage geschickt werde.|
+|   13   |    muss             |  funktional           |Als User möchte ich nicht, dass mir direkt angezeigt wird ob meine Antwort richtig odr falsch ist.|
 
 
 
