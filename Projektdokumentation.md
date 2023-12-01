@@ -15,7 +15,7 @@ Filip Mitrovic, Lennard Bühler, Filip Kritzner und Raul Gilardoni
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
-In diesem Projekt erstellen wir mit HTML, CSS und Javascript eine Website in dem man verschiedene Spiele zur Option hat und diese Spiele kann. In unserer Website wollen wir Spiele wie Tic Tac Toe, Snake, Quize und falls wir genug Zeit noch zur verfügung haben noch viele weitere Spiele. 
+In diesem Projekt entwickeln wir eine interaktive Website unter Verwendung von HTML, CSS und JavaScript. Ziel ist es, den Nutzern eine Vielfalt an unterhaltsamen Spielen anzubieten. Zu den geplanten Spielen zählen Klassiker wie Tic Tac Toe und Snake sowie Quizspiele. Sollten wir genügend Zeit zur Verfügung haben, planen wir die Integration weiterer Spiele, um die Vielfalt und den Unterhaltungswert der Plattform zu maximieren.
 
 
 
