@@ -37,7 +37,18 @@ In diesem Projekt entwickeln wir eine interaktive Website unter Verwendung von H
 |   11   |    muss             |  funktional           |Als User möchte ich, dass mindestens 3 Antworten stehen und ich die richtige aussuchen muss.|
 |   12   |    muss             |  funktional           |Als User möchte ich, wenn ich eine Antwort auswähle ich direkt zur nächsten Frage geschickt werde.|
 |   13   |    muss             |  funktional           |Als User möchte ich nicht, dass mir direkt angezeigt wird ob meine Antwort richtig odr falsch ist.|
-|   14   |    muss             |  funktional           |Als User möchte ich |
+|   14   |    muss             |  funktional           |Als User möchte ich, dass ich gegen einen Freund Tic Tac Toe spielen kann. |
+|   15   |    muss             |  funktional           |Als User möchte ich, dass der erste Spieler bei Tic Tac Toe das Symbol X spielt  |
+|   16   |    muss             |  funktional           |Als User möchte ich, dass der Zweite Spieler das Symbol O spielt. |
+|   17   |    muss             |  funktional           |Als User möchte ich, dass mir am ende des Spieles angezeigt wird ob ich gewonnen oder verloren habe. |
+|   18   |    muss             |  funktional           |Als User möchte ich, dass ich mein Snake nach rechts lenken kann. |
+|   19   |    muss             |  funktional           |Als User möchte ich, dass ich mein Snake nach Links lenken kann.  |
+|   20   |    muss             |  funktional           |Als User möchte ich, dass  ich mein Snake nach unten lenken kann. |
+|   21   |    muss             |  funktional           |Als User möchte ich, dass ich mein snake nach oben lenken kann.  |
+|   22   |    muss             |  funktional           |Als User möchte ich, dass ich Münzen einsammeln kann |
+|   23   |    muss             |  funktional           |Als User möchte ich, dass mein Snake wächst immer wenn ich eine Münze einsammle  |
+|   24   |    muss             |  funktional           |Als User möchte ich, dass wenn ich aus dem Spielfeld mit meinem Snake gehe ich verloren habe. |
+|   25   |    muss             |  funktional           |Als User möchte ich, dass wenn mein Snake stirbt das Spiel direkt wieder neustartet. |
 
 
 
@@ -61,6 +72,31 @@ In diesem Projekt entwickeln wir eine interaktive Website unter Verwendung von H
 | AP-№ | Zuständig | Beschreibung | geplante Zeit |
 | ---- |  --------- | ------------ | ------------- |
 | 1.A  |                 |            |             |
+| 1.A  |                 |            |             |
+| 1.A  |                 |            |             |
+| 1.A  |                 |            |             |
+| 1.A  |                 |            |             |
+| 1.A  |                 |            |             |
+| 1.A  |                 |            |             |
+| 1.A  |                 |            |             |
+| 1.A  |                 |            |             |
+| 1.A  |                 |            |             |
+| 1.A  |                 |            |             |
+| 1.A  |                 |            |             |
+| 1.A  |                 |            |             |
+| 1.A  |                 |            |             |
+| 1.A  |                 |            |             |
+| 1.A  |                 |            |             |
+| 1.A  |                 |            |             |
+| 1.A  |                 |            |             |
+| 1.A  |                 |            |             |
+| 1.A  |                 |            |             |
+| 1.A  |                 |            |             |
+| 1.A  |                 |            |             |
+| 1.A  |                 |            |             |
+| 1.A  |                 |            |             |
+| 1.A  |                 |            |             |
+| 1.A  |                 |            |             |
 
 
 
@@ -77,7 +113,27 @@ Wir haben uns entschieden
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |      ||           |               |
+| 1.A  |      ||           |               |                   |
+| 1.A  |      ||           |               |                   |
+| 1.A  |      ||           |               |                   |
+| 1.A  |      ||           |               |                   |
+| 1.A  |      ||           |               |                   |
+| 1.A  |      ||           |               |                   |
+| 1.A  |      ||           |               |                   |
+| 1.A  |      ||           |               |                   |
+| 1.A  |      ||           |               |                   |
+| 1.A  |      ||           |               |                   |
+| 1.A  |      ||           |               |                   |
+| 1.A  |      ||           |               |                   |
+| 1.A  |      ||           |               |                   |
+| 1.A  |      ||           |               |                   |
+| 1.A  |      ||           |               |                   |
+| 1.A  |      ||           |               |                   |
+| 1.A  |      ||           |               |                   |
+| 1.A  |      ||           |               |                   |
+| 1.A  |      ||           |               |                   |
+| 1.A  |      ||           |               |                   |
+
 
 |Total|       |        |        |    |
 
@@ -89,7 +145,31 @@ Wir haben uns entschieden
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |      |     Funktioniert nicht     |  Mitrovic      |
+| 1.1  |      |     Funktioniert      |  Mitrovic      |
+| 1.1  |      |     Funktioniert      |  Mitrovic      |
+| 1.1  |      |     Funktioniert      |  Mitrovic      |
+| 1.1  |      |     Funktioniert      |  Mitrovic      |
+| 1.1  |      |     Funktioniert      |  Mitrovic      |
+| 1.1  |      |     Funktioniert      |  Mitrovic      |
+| 1.1  |      |     Funktioniert      |  Mitrovic      |
+| 1.1  |      |     Funktioniert      |  Mitrovic      |
+| 1.1  |      |     Funktioniert      |  Mitrovic      |
+| 1.1  |      |     Funktioniert      |  Mitrovic      |
+| 1.1  |      |     Funktioniert      |  Mitrovic      |
+| 1.1  |      |     Funktioniert      |  Mitrovic      |
+| 1.1  |      |     Funktioniert      |  Mitrovic      |
+| 1.1  |      |     Funktioniert      |  Mitrovic      |
+| 1.1  |      |     Funktioniert      |  Mitrovic      |
+| 1.1  |      |     Funktioniert      |  Mitrovic      |
+| 1.1  |      |     Funktioniert      |  Mitrovic      |
+| 1.1  |      |     Funktioniert      |  Mitrovic      |
+| 1.1  |      |     Funktioniert      |  Mitrovic      |
+| 1.1  |      |     Funktioniert      |  Mitrovic      |
+| 1.1  |      |     Funktioniert      |  Mitrovic      |
+| 1.1  |      |     Funktioniert      |  Mitrovic      |
+| 1.1  |      |     Funktioniert      |  Mitrovic      |
+| 1.1  |      |     Funktioniert      |  Mitrovic      |
+
 
 
 `Fazit:`
