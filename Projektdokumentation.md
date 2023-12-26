@@ -19,7 +19,7 @@ In diesem Projekt entwickeln wir eine interaktive Website unter Verwendung von H
 
 
 
-dfdfdfdfdfdfdf
+dfdfdfdfdfdfdfdf
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
