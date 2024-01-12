@@ -1,4 +1,3 @@
-// Array mit Fragen und Antworten
 const questions = [
     {
         question: "Was ist die erste Zeile der Bibel?",
@@ -52,8 +51,6 @@ const questions = [
     }
 ];
 
-
-
 let currentQuestion = 0;
 let score = 0;
 
@@ -86,8 +83,6 @@ function checkAnswer(selectedAnswer) {
     }
     checkProgress();
 }
-
-// ... (Vorheriger Code bleibt unverändert)
 
 function showResult() {
     const correctAnswers = score;
@@ -132,9 +127,6 @@ function showResult() {
     document.getElementById('chart-container').style.display = 'block';
 }
 
-// ... (Rest des Codes bleibt unverändert)
-
-
 function checkProgress() {
     if (currentQuestion === questions.length) {
         const checkButton = document.getElementById('check-answers');
@@ -143,5 +135,4 @@ function checkProgress() {
     }
 }
 
-// Starte das Quiz, indem die erste Frage geladen wird
 window.onload = loadQuestion;
