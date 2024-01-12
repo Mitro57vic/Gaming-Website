@@ -39,6 +39,7 @@ header {
     align-items: center;
     height: 75vh
 }
+
 .navigation a{
 text-decoration: none;
 padding: 6px 15px;
@@ -46,25 +47,19 @@ color: #359381;
 border-radius: 20px;
 margin: 0 10px;
 font-weight: 600;
- 
 }
-
 
 .navigation a:hover,
 .navigatgion a.active{
 background: #359381;
 color: #fff;
-
-
 }
-
 
 #text{
 position: absolute;
 font-size: 5em;
 color: #fff;
 text-shadow: 2px 2px 4px rgba(0,0,0,.2);
-
 }
 
 .parallax img{
@@ -73,25 +68,23 @@ top: 0;
 left: 0;
 width: 100%;
 pointer-events: none;
-
 }
+
 .sec{
     position: relative;
 background: #003329;
 padding: 300px;
 margin-top: 30vh;
 }
+
 .sec h2{
 font-size: 3em;
 color: #fff;
 margin-bottom: 10px;
-
-
 }
 
 .sec p{
 font-size: 1em;
 color: #fff;
 font-weight: 300;
-
 }
