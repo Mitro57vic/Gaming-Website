@@ -58,8 +58,31 @@ In diesem Projekt entwickeln wir eine interaktive Website unter Verwendung von H
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |      Website wird geöffnet        |  Der User scrollt nach unten       |      Bilder und Text machen Animation            |
-
+| 1.1  |      Website ist geöffnet        |  Der User schaut sich um     |      Schöne Website mit gut gegliederten Elementen         |
+|2.1     |  Website ist geöffnet               |       Der User scrollt nach unten         |  Es gibt eine tolle Animation                |
+|  3.1   |      Website ist geöffnet               |    Der User scrollt nach oben            |Es gibt eine Navigationsleiste|
+|  4.1   |    Website ist geöffnet         |  Klick auf Navigationsleiste           |Link führt zur richtigen Seite |
+|   5.1  |      Website ist geöffnet       |    scrollt nach unten         |Es gibt eine Beschreibung |
+|    6.1  |      Website ist geöffnet           |    klickt auf TicTacToe         |Man kommt auf die TicTacToe Seite|
+|   7.1   |     Website ist geöffnet            |   klickt auf Snake            |Man kommt auf die Snake Seite|
+|   8.1   |   Website ist geöffnet              |  klickt auf Snake           |Man kommt auf die Quiz Seite|
+|   9.1   |   Quiz wurde gespielt            |  Die letzte Frage wird beantwortet           |Man sieht ein Diagramm mit dem Score|
+|   10.1   |    Quiz wurde geöffnet             |  man beantwortet vier Fragen           |Es gibt noch eine letzte fünfte Frage|
+|   11.1   |     Quiz wurde geöffnet              | Man startet das Quiz        |Zu der Frage gibt es 3 Antworten|
+|   12.1   |    Quiz wurde geöffnet             |  Man beantwortet eine Frage           |Man wird direkt zur nächsten Frage geschickt|
+|   13.1   |    Quiz wurde geöffnet             |   Man beantwortet eine Frage             |Es wird nicht direkt angezeigt, ob die Antwort richtig odr falsch ist.|
+|   14.1   |    TicTacToe wurde geöffnet          | Der Spieler klickt auf ein Feld           |Der nächste Zug ist das Symbol O (man kann gegen einen Kollegen spielen) |
+|   15.1   |    TicTacToe wurde geöffnet            |  Der Spieler klickt auf ein Feld              |Das erste Symbol ist ein X  |
+|   16.1   |     TicTacToe wurde geöffnet             |   Der Spieler klickt zum zweiten Mal auf ein Feld            |Das zweite Symbol ist ein O |
+|   17.1   |    TicTacToe wurde geöffnet             |  Ein Spieler platziert das gewinnende Symbol        |Es wird angezeigt, dass man gewonnen hat. |
+|   18.1  |    Snake wurde geöffnet           |  rechte Pfeiltaste         |nach rechts lenken|
+|   19.1   |   Snake wurde geöffnet              |  linke Pfeiltaste          |nach links lenken|
+|   20.1   |     Snake wurde geöffnet              |   obere Pfeiltaste            |nach unten lenken|
+|   21.1   |    Snake wurde geöffnet             |   untere Pfeiltaste           |nach oben lenken|
+|   22.1   |     Snake wurde geöffnet            | Spieler bewegt sich über Münze    |Münze wird eingesammelt|
+|   23.1   |    Snake wurde geöffnet             |  Spieler sammelt Münze ein           |Snake wächst|
+|   24.1   |    Snake wurde geöffnet              |  Spieler bewegt sich ausserhalb des Spielfeldes           |Man verliert die Runde |
+|   25.1   |    Snake wurde geöffnet           |  Spieler hat verloren           |Runde startet direkt wieder neu|
 
 
 ### 1.4 Diagramme
@@ -103,10 +126,7 @@ In diesem Projekt entwickeln wir eine interaktive Website unter Verwendung von H
 
 ## 3 Entscheiden
 
-Wir haben uns entschieden 
-
-Wir haben uns entschieden 
-
+Wir haben uns für die geplanten Arbeitspakete entschieden.
 
 ## 4 Realisieren
 
@@ -175,6 +195,7 @@ Wir haben uns entschieden
 
 `Fazit:`
 
-Am Ende schreiben
+Unsere Gaming-Website funktioniert. Alle drei Spiele sind fertig und spielbar. Im Grossen und Ganzen ein gutes Projekt.
 
 ## 6 Auswerten
+Reflexion bei unseren Portfolios.
