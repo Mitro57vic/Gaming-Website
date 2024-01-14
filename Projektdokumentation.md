@@ -98,31 +98,6 @@ In diesem Projekt entwickeln wir eine interaktive Website unter Verwendung von H
 | 25.A  |     Filip Mitrovic               |  Wenn man in Snake verliert, startet das Spiel direkt neu   |             |
 
 
-| 20.A  |     Filip Mitrovic             | Am Ende des Quizes wird ein Kreissdiagramm angezeigt           |             |
-| 21.A  |        Filip Mitrovic        | Auf dem Kreisdiagramm kann man sehen wie viele Fragen richtig wahren       |             |
-| 22.A  |        Filip Mitrovic           | Auf dem Kreisdiagram kann man sehen wie viele Fragen falsch waren            |             |
-| 23.A  |        Filip Mitrovic           | Auf dem Kreisdiagramm werden falsche Antworten rot angezeigt            |             |
-| 24.A  |      Filip Mitrovic            |  Auf dem Kreissdiagramm werden richrige Antworten blau angezeigt          |             |
-| 25.A  |      Raul Gilardoni             |  Wenn man das Quiz gespielt hat kann man es erneut spielen          |             |
-| 26.A  |     Raul Gilardoni              |  Im Spiel Snake kann man Äpfel essen         |             |
-| 27.A  |     Raul Gilardoni              | Im Spiel Snake ist es so das wenn man einen Apfel isst wird die Schlange grösser           |             |
-| 28.A  |     Raul Gilardoni              |  Man kann mit der Schlange von der einen Seite zur anderen kommen wenn man in die Wand fährt          |             |
-| 29.A  |     Raul Gilardoni              |            |             |
-| 30.A  |     Raul Gilardoni              |            |             |
-| 31.A  |    Filip Kritzner             |            |             |
-| 32.A  |    Filip Kritzner              |            |             |
-| 33.A  |    Filip Kritzner              |            |             |
-| 34.A  |    Filip Kritzner              |            |             |
-| 35.A  |    Filip Kritzner              |            |             |
-| 36.A  |    Filip Kritzner              |            |             |
-| 37.A  |    Filip Kritzner              |            |             |
-| 38.A  |    Filip Kritzner              |            |             |
-| 39.A  |    Filip Kritzner              |            |             |
-| 40.A  |    Filip Kritzner              |            |             |
-| 41.A  |    Filip Kritzner              |            |             |
-
-
-
 
 
 
