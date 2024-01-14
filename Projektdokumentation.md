@@ -69,33 +69,33 @@ In diesem Projekt entwickeln wir eine interaktive Website unter Verwendung von H
 
 ## 2 Planen
 
-| AP-№ | Zuständig | Beschreibung | geplante Zeit |
+| AP-№ | Zuständig | Beschreibung | geplante Zeit (min) |
 | ---- |  --------- | ------------ | ------------- |
-| 1.A  |   Lennard Bühler              |   Eine Homegage erstellen, welche schön aussieht         |             |
-| 2.A  |     Lennard Bühler               | Die Homepage hat ein Dynamischen Hintergrund           |             |
-| 3.A  |      Lennard Bühler              | Auf der Homepage gibt es die möglichkeit auf TicTacToe, Snake und das Quiz zugreifen zu können (Navigationsleiste)            |             |
-| 4.A  |      Lennard Bühler              | Die Navigationsleiste auf der Website führt zu den richtigen Links         |             |
-| 5.A  |      Lennard Bühler              |  Die Homepage hat eine Beschreibung          |             |
-| 6.A  |      Filip Kritzner               |  Es gibt eine Webpage für TicTacToe        |             |
-| 7.A  |      Filip Mitrovic             |  Es gibt eine Webpage für Snake         |             |
-| 8.A  |      Raul Gilardoni             |  Es gibt eine Webpage für das Quiz        |             |
-| 9.A  |      Raul Gilardoni             |  Beim Quiz wird ein Diagramm mit dem erreichten Score angezeigt.      |             |
-| 10.A  |     Raul Gilardoni             |  Das Quiz hat mindestens fünf Fragen          |             |
-| 11.A  |     Raul Gilardoni              |  Das Quiz hat für jede Frage drei Antworten zur Auswahl          |             |
-| 12.A  |     Raul Gilardoni               |  Beim Auswählen einer Frage wird man direkt zur nächsten geschickt        |             |
-| 13.A  |     Raul Gilardoni               |  Ob richtig oder falsch gewählt wurde, wird nicht direkt angezeigt, sondern die Antworten werden gespeichert       |             |
-| 14.A  |     Filip Kritzner                  |  Beim TicTacToe kann man abwechslungsweise ein X oder O platzieren (damit man gegen einen Kollegen spielen kann)       |             |
-| 15.A  |     Filip Kritzner                 |  Beim TicTacToe ist das erste Symbol ein X     |             |
-| 16.A  |     Filip Kritzner                  |  Der zweite Zug ist das Symbol O    |             |
-| 17.A  |     Filip Kritzner                  |  Am Ende des Spiels wird angezeigt, welcher Spieler gewonnen hat    |             |
-| 18.A  |     Filip Mitrovic               |  Im Spiel Snake kann man sich nach rechts bewegen     |             |
-| 19.A  |     Filip Mitrovic               |  Im Spiel Snake kann man sich nach links bewegen     |             |
-| 20.A  |     Filip Mitrovic               |  Im Spiel Snake kann man sich nach unten bewegen     |             |
-| 21.A  |     Filip Mitrovic               |  Im Spiel Snake kann man sich nach oben bewegen     |             |
-| 22.A  |     Filip Mitrovic               |  Im Spiel Snake kann man Münzen einsammeln     |             |
-| 23.A  |     Filip Mitrovic               |  Im Spiel Snake wächst man wenn man eine Münze einsammelt    |             |
-| 24.A  |     Filip Mitrovic               |  Im Spiel Snake verliert man, wenn man sich ausserhalb des Spielfeldes bewegt   |             |
-| 25.A  |     Filip Mitrovic               |  Wenn man in Snake verliert, startet das Spiel direkt neu   |             |
+| 1.A  |   Lennard Bühler              |   Eine Homegage erstellen, welche schön aussieht         |240|
+| 2.A  |     Lennard Bühler               | Die Homepage hat ein Dynamischen Hintergrund           |120|
+| 3.A  |      Lennard Bühler              | Auf der Homepage gibt es die möglichkeit auf TicTacToe, Snake und das Quiz zugreifen zu können (Navigationsleiste)            |120|
+| 4.A  |      Lennard Bühler              | Die Navigationsleiste auf der Website führt zu den richtigen Links         |30|
+| 5.A  |      Lennard Bühler              |  Die Homepage hat eine Beschreibung          |30|
+| 6.A  |      Filip Kritzner               |  Es gibt eine Webpage für TicTacToe        |120|
+| 7.A  |      Filip Mitrovic             |  Es gibt eine Webpage für Snake         |120|
+| 8.A  |      Raul Gilardoni             |  Es gibt eine Webpage für das Quiz        |30|
+| 9.A  |      Raul Gilardoni             |  Beim Quiz wird ein Diagramm mit dem erreichten Score angezeigt.      |240|
+| 10.A  |     Raul Gilardoni             |  Das Quiz hat mindestens fünf Fragen          |60|
+| 11.A  |     Raul Gilardoni              |  Das Quiz hat für jede Frage drei Antworten zur Auswahl          |60|
+| 12.A  |     Raul Gilardoni               |  Beim Auswählen einer Frage wird man direkt zur nächsten geschickt        |60|
+| 13.A  |     Raul Gilardoni               |  Ob richtig oder falsch gewählt wurde, wird nicht direkt angezeigt, sondern die Antworten werden gespeichert       |120|
+| 14.A  |     Filip Kritzner                  |  Beim TicTacToe kann man abwechslungsweise ein X oder O platzieren (damit man gegen einen Kollegen spielen kann)       |240|
+| 15.A  |     Filip Kritzner                 |  Beim TicTacToe ist das erste Symbol ein X     |30|
+| 16.A  |     Filip Kritzner                  |  Der zweite Zug ist das Symbol O    |30|
+| 17.A  |     Filip Kritzner                  |  Am Ende des Spiels wird angezeigt, welcher Spieler gewonnen hat    |60|
+| 18.A  |     Filip Mitrovic               |  Im Spiel Snake kann man sich nach rechts bewegen     |30|
+| 19.A  |     Filip Mitrovic               |  Im Spiel Snake kann man sich nach links bewegen     |30|
+| 20.A  |     Filip Mitrovic               |  Im Spiel Snake kann man sich nach unten bewegen     |30|
+| 21.A  |     Filip Mitrovic               |  Im Spiel Snake kann man sich nach oben bewegen     |30|
+| 22.A  |     Filip Mitrovic               |  Im Spiel Snake kann man Münzen einsammeln     |60|
+| 23.A  |     Filip Mitrovic               |  Im Spiel Snake wächst man wenn man eine Münze einsammelt    |60|
+| 24.A  |     Filip Mitrovic               |  Im Spiel Snake verliert man, wenn man sich ausserhalb des Spielfeldes bewegt   |60|
+| 25.A  |     Filip Mitrovic               |  Wenn man in Snake verliert, startet das Spiel direkt neu   |40|
 
 
 
@@ -112,29 +112,31 @@ Wir haben uns entschieden
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |      ||           |               |                   |
-| 1.A  |      ||           |               |                   |
-| 1.A  |      ||           |               |                   |
-| 1.A  |      ||           |               |                   |
-| 1.A  |      ||           |               |                   |
-| 1.A  |      ||           |               |                   |
-| 1.A  |      ||           |               |                   |
-| 1.A  |      ||           |               |                   |
-| 1.A  |      ||           |               |                   |
-| 1.A  |      ||           |               |                   |
-| 1.A  |      ||           |               |                   |
-| 1.A  |      ||           |               |                   |
-| 1.A  |      ||           |               |                   |
-| 1.A  |      ||           |               |                   |
-| 1.A  |      ||           |               |                   |
-| 1.A  |      ||           |               |                   |
-| 1.A  |      ||           |               |                   |
-| 1.A  |      ||           |               |                   |
-| 1.A  |      ||           |               |                   |
-| 1.A  |      ||           |               |                   |
-
-
-|Total|       |        |        |    |
+| 1.A  | 24.11.23 |  Lennard Bühler              |240|290 |
+| 2.A  |24.11.23 |   Lennard Bühler               |120|150|
+| 3.A  |01.12.23|    Lennard Bühler              |120|100|
+| 4.A  |01.12.23|    Lennard Bühler              |30|15|
+| 5.A  |01.12.23|   Lennard Bühler              |30|35|
+| 6.A  |24.11.23 |  Filip Kritzner               |120|135|
+| 7.A  |24.11.23 |   Filip Mitrovic             |120|155|
+| 8.A  |24.11.23 |   Raul Gilardoni             |30|35|
+| 9.A  |24.11.23 |   Raul Gilardoni             |240|215|
+| 10.A  |01.12.23|   Raul Gilardoni             |60|45|
+| 11.A  |01.12.23|   Raul Gilardoni              |60|75|
+| 12.A  |01.12.23|   Raul Gilardoni               |60|95|
+| 13.A  |01.12.23|   Raul Gilardoni               |120|105|
+| 14.A  |01.12.23|   Filip Kritzner                  |240|235|
+| 15.A  |24.11.23 |   Filip Kritzner                 |30|40|
+| 16.A  |24.11.23 |   Filip Kritzner                  |30|35|
+| 17.A  |01.12.23|      Filip Kritzner                  |60|65|
+| 18.A  |24.11.23 |     Filip Mitrovic               |30|60|
+| 19.A  |24.11.23 |     Filip Mitrovic               |30|10|
+| 20.A  |24.11.23 |     Filip Mitrovic               |30|10|
+| 21.A  |24.11.23 |     Filip Mitrovic               |30|10|
+| 22.A  |01.12.23|     Filip Mitrovic               |60|55|
+| 23.A  |01.12.23|     Filip Mitrovic               |60|70|
+| 24.A  |01.12.23|     Filip Mitrovic               |60|75|
+| 25.A  |01.12.23|    Filip Mitrovic               |40|50|
 
 
 
