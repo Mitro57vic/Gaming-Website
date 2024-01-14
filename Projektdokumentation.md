@@ -26,12 +26,12 @@ In diesem Projekt entwickeln wir eine interaktive Website unter Verwendung von H
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |       muss         |   funktional   | Als User möchte ich eine attraktiv aussehende Website.   |
 |2     |  muss              |       funktional         |   Als User möchte ich bei der Startseite eine Parallex website.                   |
-|  3   |      muss              |    funktional            |Als User möchte ich eine Navigationsleiste auf der Website zur verfügung haben.|
+|  3   |      muss              |    funktional            |Als User möchte ich eine Navigationsleiste auf der Website zur Verfügung haben.|
 |  4   |    muss         |  funktional           |Als User möchte ich, dass die Links bei der Navigationsleiste funktionieren und mich zur richtigen Seite führen. |
 |   5  |      muss       |    funktional         |Als User möchte ich bei der Startseite eine Beschreibung der Website haben. |
 |    6  |      muss           |    funktional         |Als User möchte ich Tic Tac Toe spielen können.|
 |   7   |    muss             |  funktional           |Als User möchte ich Snake spielen können. |
-|   8   |    muss             |  funktional           |Als User möchte ich ein Quizs-Spiel spielen können.|
+|   8   |    muss             |  funktional           |Als User möchte ich ein Quiz-Spiel spielen können.|
 |   9   |    muss             |  funktional           |Als User möchte ich, dass beim Quiz-Spiel mir am Ende des Quizes anhand eines Diagrammes mein Score angezeigt wird.|
 |   10   |    muss             |  funktional           |Als User möchte ich, dass mir mindestens 5 Fragen gestellt werden beim Quiz.|
 |   11   |    muss             |  funktional           |Als User möchte ich, dass mindestens 3 Antworten stehen und ich die richtige aussuchen muss.|
@@ -42,7 +42,7 @@ In diesem Projekt entwickeln wir eine interaktive Website unter Verwendung von H
 |   16   |    muss             |  funktional           |Als User möchte ich, dass der Zweite Spieler das Symbol O spielt. |
 |   17   |    muss             |  funktional           |Als User möchte ich, dass mir am ende des Spieles angezeigt wird ob ich gewonnen oder verloren habe. |
 |   18   |    muss             |  funktional           |Als User möchte ich, dass ich mein Snake nach rechts lenken kann. |
-|   19   |    muss             |  funktional           |Als User möchte ich, dass ich mein Snake nach Links lenken kann.  |
+|   19   |    muss             |  funktional           |Als User möchte ich, dass ich mein Snake nach links lenken kann.  |
 |   20   |    muss             |  funktional           |Als User möchte ich, dass  ich mein Snake nach unten lenken kann. |
 |   21   |    muss             |  funktional           |Als User möchte ich, dass ich mein snake nach oben lenken kann.  |
 |   22   |    muss             |  funktional           |Als User möchte ich, dass ich Münzen einsammeln kann |
@@ -71,32 +71,56 @@ In diesem Projekt entwickeln wir eine interaktive Website unter Verwendung von H
 
 | AP-№ | Zuständig | Beschreibung | geplante Zeit |
 | ---- |  --------- | ------------ | ------------- |
-| 1.A  |                 |            |             |
-| 1.A  |                 |            |             |
-| 1.A  |                 |            |             |
-| 1.A  |                 |            |             |
-| 1.A  |                 |            |             |
-| 1.A  |                 |            |             |
-| 1.A  |                 |            |             |
-| 1.A  |                 |            |             |
-| 1.A  |                 |            |             |
-| 1.A  |                 |            |             |
-| 1.A  |                 |            |             |
-| 1.A  |                 |            |             |
-| 1.A  |                 |            |             |
-| 1.A  |                 |            |             |
-| 1.A  |                 |            |             |
-| 1.A  |                 |            |             |
-| 1.A  |                 |            |             |
-| 1.A  |                 |            |             |
-| 1.A  |                 |            |             |
-| 1.A  |                 |            |             |
-| 1.A  |                 |            |             |
-| 1.A  |                 |            |             |
-| 1.A  |                 |            |             |
-| 1.A  |                 |            |             |
-| 1.A  |                 |            |             |
-| 1.A  |                 |            |             |
+| 1.A  |   Lennard Bühler              |   Eine Homegage erstellen, welche schön aussieht         |             |
+| 2.A  |     Lennard Bühler               | Die Homepage hat ein Dynamischen Hintergrund           |             |
+| 3.A  |      Lennard Bühler              | Auf der Homepage gibt es die möglichkeit auf TicTacToe, Snake und das Quiz zugreifen zu können (Navigationsleiste)            |             |
+| 4.A  |      Lennard Bühler              | Die Navigationsleiste auf der Website führt zu den richtigen Links         |             |
+| 5.A  |      Lennard Bühler              |  Die Homepage hat eine Beschreibung          |             |
+| 6.A  |      Filip Kritzner               |  Es gibt eine Webpage für TicTacToe        |             |
+| 7.A  |      Filip Mitrovic             |  Es gibt eine Webpage für Snake         |             |
+| 8.A  |      Raul Gilardoni             |  Es gibt eine Webpage für das Quiz        |             |
+| 9.A  |      Raul Gilardoni             |  Beim Quiz wird ein Diagramm mit dem erreichten Score angezeigt.      |             |
+| 10.A  |     Raul Gilardoni             |  Das Quiz hat mindestens fünf Fragen          |             |
+| 11.A  |     Raul Gilardoni              |  Das Quiz hat für jede Frage drei Antworten zur Auswahl          |             |
+| 12.A  |     Raul Gilardoni               |  Beim Auswählen einer Frage wird man direkt zur nächsten geschickt        |             |
+| 13.A  |     Raul Gilardoni               |  Ob richtig oder falsch gewählt wurde, wird nicht direkt angezeigt, sondern die Antworten werden gespeichert       |             |
+| 14.A  |     Filip Kritzner                  |  Beim TicTacToe kann man abwechslungsweise ein X oder O platzieren (damit man gegen einen Kollegen spielen kann)       |             |
+| 15.A  |     Filip Kritzner                 |  Beim TicTacToe ist das erste Symbol ein X     |             |
+| 16.A  |     Filip Kritzner                  |  Der zweite Zug ist das Symbol O    |             |
+| 17.A  |     Filip Kritzner                  |  Am Ende des Spiels wird angezeigt, welcher Spieler gewonnen hat    |             |
+| 18.A  |     Filip Mitrovic               |  Im Spiel Snake kann man sich nach rechts bewegen     |             |
+| 19.A  |     Filip Mitrovic               |  Im Spiel Snake kann man sich nach links bewegen     |             |
+| 20.A  |     Filip Mitrovic               |  Im Spiel Snake kann man sich nach unten bewegen     |             |
+| 21.A  |     Filip Mitrovic               |  Im Spiel Snake kann man sich nach oben bewegen     |             |
+| 22.A  |     Filip Mitrovic               |  Im Spiel Snake kann man Münzen einsammeln     |             |
+| 23.A  |     Filip Mitrovic               |  Im Spiel Snake wächst man wenn man eine Münze einsammelt    |             |
+| 24.A  |     Filip Mitrovic               |  Im Spiel Snake verliert man, wenn man sich ausserhalb des Spielfeldes bewegt   |             |
+| 25.A  |     Filip Mitrovic               |  Wenn man in Snake verliert, startet das Spiel direkt neu   |             |
+
+
+| 20.A  |     Filip Mitrovic             | Am Ende des Quizes wird ein Kreissdiagramm angezeigt           |             |
+| 21.A  |        Filip Mitrovic        | Auf dem Kreisdiagramm kann man sehen wie viele Fragen richtig wahren       |             |
+| 22.A  |        Filip Mitrovic           | Auf dem Kreisdiagram kann man sehen wie viele Fragen falsch waren            |             |
+| 23.A  |        Filip Mitrovic           | Auf dem Kreisdiagramm werden falsche Antworten rot angezeigt            |             |
+| 24.A  |      Filip Mitrovic            |  Auf dem Kreissdiagramm werden richrige Antworten blau angezeigt          |             |
+| 25.A  |      Raul Gilardoni             |  Wenn man das Quiz gespielt hat kann man es erneut spielen          |             |
+| 26.A  |     Raul Gilardoni              |  Im Spiel Snake kann man Äpfel essen         |             |
+| 27.A  |     Raul Gilardoni              | Im Spiel Snake ist es so das wenn man einen Apfel isst wird die Schlange grösser           |             |
+| 28.A  |     Raul Gilardoni              |  Man kann mit der Schlange von der einen Seite zur anderen kommen wenn man in die Wand fährt          |             |
+| 29.A  |     Raul Gilardoni              |            |             |
+| 30.A  |     Raul Gilardoni              |            |             |
+| 31.A  |    Filip Kritzner             |            |             |
+| 32.A  |    Filip Kritzner              |            |             |
+| 33.A  |    Filip Kritzner              |            |             |
+| 34.A  |    Filip Kritzner              |            |             |
+| 35.A  |    Filip Kritzner              |            |             |
+| 36.A  |    Filip Kritzner              |            |             |
+| 37.A  |    Filip Kritzner              |            |             |
+| 38.A  |    Filip Kritzner              |            |             |
+| 39.A  |    Filip Kritzner              |            |             |
+| 40.A  |    Filip Kritzner              |            |             |
+| 41.A  |    Filip Kritzner              |            |             |
+
 
 
 
@@ -145,30 +169,30 @@ Wir haben uns entschieden
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |      |     Funktioniert      |  Mitrovic      |
-| 1.1  |      |     Funktioniert      |  Mitrovic      |
-| 1.1  |      |     Funktioniert      |  Mitrovic      |
-| 1.1  |      |     Funktioniert      |  Mitrovic      |
-| 1.1  |      |     Funktioniert      |  Mitrovic      |
-| 1.1  |      |     Funktioniert      |  Mitrovic      |
-| 1.1  |      |     Funktioniert      |  Mitrovic      |
-| 1.1  |      |     Funktioniert      |  Mitrovic      |
-| 1.1  |      |     Funktioniert      |  Mitrovic      |
-| 1.1  |      |     Funktioniert      |  Mitrovic      |
-| 1.1  |      |     Funktioniert      |  Mitrovic      |
-| 1.1  |      |     Funktioniert      |  Mitrovic      |
-| 1.1  |      |     Funktioniert      |  Mitrovic      |
-| 1.1  |      |     Funktioniert      |  Mitrovic      |
-| 1.1  |      |     Funktioniert      |  Mitrovic      |
-| 1.1  |      |     Funktioniert      |  Mitrovic      |
-| 1.1  |      |     Funktioniert      |  Mitrovic      |
-| 1.1  |      |     Funktioniert      |  Mitrovic      |
-| 1.1  |      |     Funktioniert      |  Mitrovic      |
-| 1.1  |      |     Funktioniert      |  Mitrovic      |
-| 1.1  |      |     Funktioniert      |  Mitrovic      |
-| 1.1  |      |     Funktioniert      |  Mitrovic      |
-| 1.1  |      |     Funktioniert      |  Mitrovic      |
-| 1.1  |      |     Funktioniert      |  Mitrovic      |
+| 1.1  |15.12.23|     Funktioniert      |  Mitrovic      |
+| 1.1  |15.12.23|     Funktioniert      |  Mitrovic      |
+| 1.1  |15.12.23|     Funktioniert      |  Mitrovic      |
+| 1.1  |15.12.23|     Funktioniert      |  Mitrovic      |
+| 1.1  |15.12.23|     Funktioniert      |  Mitrovic      |
+| 1.1  |15.12.23|     Funktioniert      |  Mitrovic      |
+| 1.1  |15.12.23|     Funktioniert      |  Bühler      |
+| 1.1  |15.12.23|     Funktioniert      |  Bühler      |
+| 1.1  |15.12.23|     Funktioniert      |  Bühler      |
+| 1.1  |15.12.23|     Funktioniert      |  Bühler      |
+| 1.1  |15.12.23|     Funktioniert      |  Bühler      |
+| 1.1  |15.12.23|     Funktioniert      |  Kritzner      |
+| 1.1  |15.12.23|     Funktioniert      |  Kritzner      |
+| 1.1  |15.12.23|     Funktioniert      |  Kritzner      |
+| 1.1  |15.12.23|     Funktioniert      |  Kritzner      |
+| 1.1  |15.12.23|     Funktioniert      |  Kritzner      |
+| 1.1  |15.12.23|     Funktioniert      |  Kritzner      |
+| 1.1  |15.12.23|     Funktioniert      |  Gilardoni      |
+| 1.1  |15.12.23|     Funktioniert      |  Gilardoni      |
+| 1.1  |15.12.23|     Funktioniert      |  Gilardoni      |
+| 1.1  |22.12.23|     Funktioniert      |  Gilardoni      |
+| 1.1  |22.12.23|     Funktioniert      |  Gilardoni      |
+| 1.1  |22.12.23|     Funktioniert      |  Mitrovic      |
+| 1.1  |22.12.23|     Funktioniert      |  Mitrovic      |
 
 
 
